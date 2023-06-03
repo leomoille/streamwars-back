@@ -1,0 +1,9 @@
+api_platform:
+    title: 'StreamWars API'
+    description: 'Main API for StreamWars app.'
+    version: 1.0.0
+    swagger:
+        api_keys:
+            JWT:
+                name: Authorization
+                type: header
